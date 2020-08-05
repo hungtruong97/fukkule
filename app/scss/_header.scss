@@ -1,0 +1,38 @@
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 0.5rem;
+}
+
+.logo {
+  margin-right: 5em;
+  margin-left: 3em;
+}
+
+.header-container {
+  display: flex;
+  background-color: #f542aa;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-menu {
+  width: 50%;
+  margin-left: 0;
+}
+
+.nav-menu-list {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+
+  li {
+    list-style: none;
+    font-size: 1.5rem;
+  }
+
+  li a {
+    text-decoration: none;
+    color: black;
+  }
+}
