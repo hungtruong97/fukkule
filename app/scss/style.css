@@ -29,7 +29,7 @@ h1 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background-color: #f542aa;
+  background-color: #00a65a;
   -ms-flex-pack: distribute;
       justify-content: space-around;
   -webkit-box-align: center;
@@ -99,5 +99,11 @@ h1 {
 
 .points-about-me .points-about-me-text {
   width: 40%;
+}
+
+footer {
+  padding: 3em;
+  text-align: center;
+  background-color: gray;
 }
 /*# sourceMappingURL=style.css.map */
